@@ -1,0 +1,6 @@
+[submodule "tutorial-adaptive-RL-sampling"]
+	path = tutorial-adaptive-RL-sampling
+	url = https://github.com/bluesky/tutorial-adaptive-RL-sampling.git
+[submodule "tutorials"]
+	path = tutorials
+	url = https://github.com/bluesky/tutorials.git
